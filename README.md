@@ -1,4 +1,4 @@
-# API_ResNet – API de Classificação de Imagens 
+# API_ResNet – API de Classificação de Gatos&Ratos
 
 API RESTful para classificação de imagens usando um modelo ResNet treinado. Desenvolvida em Python com FastAPI, permite enviar imagens e receber previsões do modelo. 
 Tecnologias Utilizadas 
